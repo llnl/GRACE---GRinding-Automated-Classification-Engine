@@ -2,7 +2,7 @@
 **Author**: Sean Jackson, Data Science Summer Institute Scholar at Lawrence Livermore National Laboratory
 
 Feel free to Contact the Author at:
- - jackson129@llnl.gov (expires August 9)
+ - jackson129@llnl.gov
  - seank.jackson@utoronto.ca (my undergrad email, expires some time in 2027)
 
 My Project Mentors are:
@@ -122,3 +122,4 @@ Visit https://www.gnu.org/licenses/agpl-3.0.html> for more details.
 
  ### Release
  LLNL Code Release Number: LLNL-CODE-2015340
+
